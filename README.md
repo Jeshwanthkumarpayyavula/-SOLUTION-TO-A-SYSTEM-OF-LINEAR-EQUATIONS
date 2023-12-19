@@ -1,4 +1,6 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# Name: Jeshwanth kumar
+# Ref.No:2122232240114
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
